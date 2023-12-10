@@ -6,8 +6,9 @@ psycopg2-binary
 python-multipart
 joblib
 scikit-learn
-pickle
+#pickle
 numpy
+Jinja2
 
 
 # vs code indirilmesi
